@@ -125,7 +125,7 @@ If you want to improve the UI or add new features, follow these steps:
 ----
 
 ## 🎉 Final Outcome
-![outcome ](https://github.com/ShivanisharmaF128/Face_detector_openCV/blob/main/Output.jfif)
+![outcome ](https://github.com/ShivanisharmaF128/Noteped-_using-_python/blob/main/Notepad%20iamge.jfif)
 
 ----
 
