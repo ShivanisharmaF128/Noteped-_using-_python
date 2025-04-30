@@ -1,0 +1,5 @@
+Project Title: MY OWN NOTEPAD - A Simple Text Editor
+
+Hi, I'm Shivani Sharma, an MCA student passionate about data science and software development. As part of my learning journey, I’ve created a custom notepad application using Python’s Tkinter library. This notepad features a clean dark theme interface and allows you to open and save .txt files easily with just a click. It’s styled with custom fonts and buttons for better user experience.
+
+This project helped me strengthen my understanding of GUI development in Python and enhanced my practical coding skills. It’s a small step toward building more interactive and user-friendly applications.
