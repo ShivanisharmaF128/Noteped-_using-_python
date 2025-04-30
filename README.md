@@ -2,8 +2,7 @@
 
 A simple Notepad application built using **Python and Tkinter**. This project allows users to open and save .txt files, with a clean dark-themed GUI for a better writing experience..
 
-![NOTEPAD ](<img src="https://github.com/ShivanisharmaF128/Noteped-_using-_python/blob/main/python%20project%20notepad.jfif?raw=true" width="600"/>
-)
+![NOTEPAD ]()
 
 ---
 
