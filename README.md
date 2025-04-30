@@ -2,7 +2,7 @@
 
 A simple Notepad application built using **Python and Tkinter**. This project allows users to open and save .txt files, with a clean dark-themed GUI for a better writing experience..
 
-![face_detector](https://github.com/ShivanisharmaF128/Face_detector_openCV/blob/main/face%20detection%20image.jpeg)
+![NOTEPAD ](https://github.com/ShivanisharmaF128/Noteped-_using-_python/blob/main/python%20project%20notepad.jfif)
 
 ---
 
@@ -124,6 +124,10 @@ If you want to improve the UI or add new features, follow these steps:
 
 ----
 
+## 🎉 Final Outcome
+![outcome ](https://github.com/ShivanisharmaF128/Face_detector_openCV/blob/main/Output.jfif)
+
+----
 
 ## 👨‍💻 Author
 
